@@ -1,3 +1,3 @@
 # 1PJS
-Primeiro projeto da minha caminhada como Dev Front End.
-Site de uma faculdade fictícia UNES, usando apenas <strong>html</strong>, usei tabelas para posicionamento do site. 
+<h4>Primeiro projeto da minha caminhada como Dev Front End.<h4><br>
+Site de uma faculdade fictícia (UNES), usando apenas <strong>html</strong>, usei tabelas para posicionamento do site. 
